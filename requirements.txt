@@ -1,0 +1,7 @@
+streamlit==1.27.2
+langchain==0.0.310
+ipykernel
+sentence-transformers==2.2.2
+chromadb==0.4.14
+beautifulsoup4==4.12.2
+lxml==4.9.3
